@@ -54,7 +54,7 @@ Explain how to run the tests for the microservices.
 
 ## Contributing
 
-If you'd like to contribute to the project, please follow our [Contribution Guidelines](CONTRIBUTING.md).
+If you'd like to contribute to the project, please mail .
 
 ## License
 
@@ -62,7 +62,6 @@ This project is not licensed, it is only learning purpose.
 
 ## Acknowledgments
 
-- 
 
 ## Contact
 
